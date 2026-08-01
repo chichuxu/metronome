@@ -1,6 +1,6 @@
 # 🎵 节拍器 (Metronome)
 
-一个 Android 原生节拍器应用，使用 Kotlin + Jetpack Compose 开发。
+纯ai开发，一个 Android 原生节拍器应用，无广告，下载即可使用
 
 ## ⬇️ 下载安装
 
@@ -23,6 +23,5 @@
 
 ![界面](preview.png)
 
-## 🛠 技术栈
 
-Kotlin · Jetpack Compose · AudioTrack · MediaSession · minSdk 26 / targetSdk 34
+
